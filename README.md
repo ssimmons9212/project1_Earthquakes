@@ -19,10 +19,10 @@ The purpose of this project is to prove that waste water disposal is the contrib
 * The University of Oklahoma Geological Survey
 * Oklahoma Corporation Commission
 
-![WellsvsEarthquake](C:\Users\samms\Desktop\project1_Earthquakes\Wells_vs_Earthquakes.png)
-![ok_map](C:\Users\samms\Desktop\project1_Earthquakes\ok_map.png)
-![ShakiestCity](C:\Users\samms\Desktop\project1_Earthquakes\ShakiestCity.png)
-![Volume_vs_EQevent](C:\Users\samms\Desktop\project1_Earthquakes\Volume_vs_EQevent.png)
+![WellsvsEarthquake](https://github.com/ssimmons9212/project1_Earthquakes/blob/master/Wells_vs_Earthquakes.png)
+![ok_map](https://github.com/ssimmons9212/project1_Earthquakes/blob/master/ok_map.png)
+![ShakiestCity](https://github.com/ssimmons9212/project1_Earthquakes/blob/master/ShakiestCity.png)
+![Volume_vs_EQevent](https://github.com/ssimmons9212/project1_Earthquakes/blob/master/Volume_vs_EQevent.png)
 
 
 ### Copyright
